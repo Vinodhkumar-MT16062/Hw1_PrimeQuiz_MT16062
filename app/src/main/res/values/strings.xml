@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeChallenge</string>
+    <string name="trueString">True</string>
+    <string name="falseString">False</string>
+    <string name="statementText"> is a prime number!</string>
+    <string name="next">Next</string>
+</resources>
