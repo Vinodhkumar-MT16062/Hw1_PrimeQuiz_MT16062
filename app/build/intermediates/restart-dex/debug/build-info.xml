@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="36222494653364"
+    token="-1939061969643368802" >
+
+    <task
+        name="javac"
+        duration="61" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="33430504817688" >
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="36132430094081" >
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_14a224ff98cd8bc48cd585fcafa12ac6f84e8d8f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_ff3b5b8f53271b54c1a8e601d50189bd7e1842de/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_40b2890d71357e82c6001f732d5646333b7dfcfc/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_434f06bdbb7629747d8aa739736f8dbde8cb9198/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_55b83cb9eb4e64d585a4b153ac4a7da479892f79/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_6348dbbea3f7a4d220d00dff6e3fbe6ee90262ea/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_1ebc4bd9c114eb532b42ba486d87a1edc3c1a9e5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/VinodhKumar/AndroidStudioProjects/Hw1_MT16062_PrimeQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_8cb30ff4a71b4f34a7fb0a2ee1500ecb25ee6b7f/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="36222494653364" />
+
+</instant-run>
